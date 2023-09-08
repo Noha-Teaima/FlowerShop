@@ -1,0 +1,15 @@
+{
+   "hello":"Hello",
+   "sign_in":"Sign_In",
+   "name":"Full_Name",
+   "email":"Email",
+   "phone":"Phone",
+   "password":"Password",
+   "sign_in_button":"Sign-In",
+   "sign_up_button":"Sign-Up",
+   "account":"Have_An_Account?",
+   "account1":"Don't Have Account?",
+   "sign_up":"Sign_Up"
+
+
+}
